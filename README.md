@@ -8,7 +8,7 @@
 <img
 text-align="center"
 src="./assets/images/pass_gen_image_github.jpeg"
-width="800px"
+width="900px"
 height="100%"
 >
 </p>
