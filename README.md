@@ -10,7 +10,7 @@ HTML CSS VanillaJavaScript.
 ## How to Use
 
 Click the boxes on the right to choose characters for password.
-Then adjust the character bar for amount of characters between 7 and 25.
+Then adjust the character bar for amount of characters between 7 and 25. Finally, click the Generate Password Button on the bottom . Your password will be created in the space reading Password.
 
 ## Web Cam demonstration
 Password Generator[Password Generator.webm](https://user-images.githubusercontent.com/75630576/210181315-6419d336-dfc9-46e1-9012-177b160794d6.webm)
