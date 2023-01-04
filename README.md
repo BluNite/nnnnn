@@ -3,12 +3,15 @@
 #Video demonstration of Password Generator
 
 # ![Web capture_1-1-2023_14429_](https://user-images.githubusercontent.com/75630576/210183233-80716766-0f14-4059-96e7-f361c6fd7a6e.jpeg)
-
+<header>
+  Image of NY Yankees / Personalized 
+</header
 <p>
 <img
 text-align="center"
 src="./assets/images/pass_gen_image_github.jpeg"
-width="900px"
+width="1000px"
+padding-left=
 height="100%"
 >
 </p>
